@@ -10,7 +10,7 @@ Para jugar, simplemente abre el archivo ingresa en el enlace, el repositorio se 
 
 1. Ingresa una palabra de 5 letras en el campo de entrada.
 2. Haz clic en el botón "Adivinar" o presiona Enter para enviar tu suposición.
-3. El juego te dará feedback sobre tu suposición:
+3. El juego te dará respuesta sobre tu suposición:
    - Las letras verdes indican letras correctas en la posición correcta.
    - Las letras amarillas indican letras correctas en la posición incorrecta.
    - Las letras grises indican letras incorrectas.
